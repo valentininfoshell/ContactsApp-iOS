@@ -1,0 +1,10 @@
+/* 
+  Strings.strings
+  ContactsApp
+
+  Created by Виталий Сероштанов on 04.12.2020.
+  
+*/
+// UI
+"ok" = "OK";
+"Contacts" = "Контакты";
